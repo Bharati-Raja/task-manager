@@ -1,2 +1,2 @@
 # task-manager
- ![Preview text](images/preview "Preview")
+ ![Preview text](images/preview.png "Preview")
